@@ -1,0 +1,3 @@
+My name is DIVYA
+I am a BCA graduate.
+GitHub is a cloud based platform. Git and GitHub are two different things
